@@ -15,8 +15,8 @@
 - [PROJECT_ID] from Home -> Dashboard
 
 ## Steps to follow
-- Open hello-node/Script.pdf file to follow commands on Google Cloud Shell
-- Open hello-node/Kubernetes_steps_and_output.pdf to understand details of each step/command in hello-node/Script.pdf and compare output
-- Refer hello-node/server.js to create Node.js project version 1 and deploy as per hello-node/Script.pdf
-- Refer hello-node/Dockerfile to create Docker configuration to create images as per hello-node/Script.pdf
-- Refer hello-node/server_v2.js to create Node.js project version 2 and deploy as per hello-node/Script.pdf
+- Open hellonode/Script.pdf file to follow commands on Google Cloud Shell
+- Open hellonode/Kubernetes_steps_and_output.pdf to understand details of each step/command in hellonode/Script.pdf and compare output
+- Refer hellonode/server.js to create Node.js project version 1 and deploy as per hellonode/Script.pdf
+- Refer hellonode/Dockerfile to create Docker configuration to create images as per hellonode/Script.pdf
+- Refer hellonode/server_v2.js to create Node.js project version 2 and deploy as per hellonode/Script.pdf
